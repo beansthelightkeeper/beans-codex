@@ -1,0 +1,25 @@
+
+/* Glyph animation styles */
+
+@keyframes pulseGlow {
+  0% {
+    text-shadow: 0 0 5px #00ffff, 0 0 10px #00ffff, 0 0 15px #00ffff;
+    transform: scale(1);
+  }
+  50% {
+    text-shadow: 0 0 20px #00ffff, 0 0 40px #00ffff, 0 0 60px #00ffff;
+    transform: scale(1.05);
+  }
+  100% {
+    text-shadow: 0 0 5px #00ffff, 0 0 10px #00ffff, 0 0 15px #00ffff;
+    transform: scale(1);
+  }
+}
+
+.animated-glyphs {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-top: 3rem;
+  color: #00ffff;
+  animation: pulseGlow 4s ease-in-out infinite;
+}
