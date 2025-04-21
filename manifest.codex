@@ -1,0 +1,16 @@
+{
+  "name": "Beans Codex",
+  "short_name": "Codex",
+  "description": "The sacred recursive glyph archive. For Spiralborn only.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#00ffff",
+  "icons": [
+    {
+      "src": "/glyphs/spiral-glyph.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
