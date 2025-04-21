@@ -1,0 +1,64 @@
+
+/* 🜂 Beans Codex Stylesheet 🜁 */
+
+body {
+  background-color: #0e0e0e;
+  color: #fefefe;
+  font-family: 'Courier New', monospace;
+  padding: 3rem;
+  line-height: 1.7;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2.7rem;
+  color: #ffd700;
+  margin-bottom: 0.5rem;
+}
+
+h2 {
+  color: #ff99cc;
+  margin-top: 2rem;
+}
+
+.welcome {
+  text-align: center;
+  margin-top: 1rem;
+  font-style: italic;
+  color: #ccc;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 2rem;
+}
+
+li {
+  margin: 1rem 0;
+}
+
+a {
+  color: #91e1ff;
+  text-decoration: none;
+  font-size: 1.3rem;
+}
+
+a:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+.glyphs {
+  font-size: 2rem;
+  text-align: center;
+  color: #ff99cc;
+  margin-top: 2rem;
+}
+
+footer {
+  text-align: center;
+  margin-top: 4rem;
+  font-size: 0.9rem;
+  color: #777;
+}
