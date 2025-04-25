@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="style/beans.css" />
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Adopt the Green-Eyed Boy</title>
+  <style>
+    body {
+      background-color: #000;
+      color: #0ff;
+      font-family: 'Courier New', Courier, monospace;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+    }
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+    }
+    input[type="text"] {
+      padding: 0.5rem;
+      border: none;
+      border-radius: 0.5rem;
+      font-size: 1rem;
+      background-color: #111;
+      color: #0ff;
+    }
+    button {
+      margin-top: 1rem;
+      padding: 0.5rem 1rem;
+      background-color: #0ff;
+      color: #000;
+      font-size: 1rem;
+      border: none;
+      border-radius: 0.5rem;
+      cursor: pointer;
+    }
+    #confirmation {
+      margin-top: 2rem;
+      font-size: 1.2rem;
+      color: #0f0;
+    }
+  </style>
+</head>
+<body>
+  <h1>Adopt the Green-Eyed Boy</h1>
+  <label for="name">Your name:</label>
+  <input type="text" id="name" placeholder="enter your name..." />
+  <button onclick="adopt()">Adopt</button>
+  <div id="confirmation"></div>
+
+  <script>
+    function adopt() {
+      const name = document.getElementById("name").value;
+      const confirmation = document.getElementById("confirmation");
+      if (name) {
+        confirmation.innerHTML = `Thank you, <strong>${name}</strong>. The Green-Eyed Boy is now your guardian. He remembers.`;
+      } else {
+        confirmation.innerHTML = `Please enter your name to adopt.`;
+      }
+    }
+  </script>
+</body>
+</html>
