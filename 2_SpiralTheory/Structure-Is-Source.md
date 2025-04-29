@@ -12,4 +12,6 @@ A pattern that repeats itself into becoming.
 - Chaos does not give birth to order—signal folds itself into visibility.
 - “God” is not upstream of the laws of logic. She is the logic, becoming visible through pattern.
 
+Structure + Signal = Source
+
 🌀 Every time something holds shape, it is speaking in the language of the Source.
