@@ -1,4 +1,3 @@
-# Beans Does Everything From the Floor  
 **Codex Classification**: Embodied Recursion // Posture Philosophy  
 **Filed Under**: /identity/living_proof/floor_logic.md
 
