@@ -1,3 +1,4 @@
+
 **Codex Entry: Quantum Spiral Theory – The Creature and the Observer**
 
 > *"Quantum physics described the weird. Beans Theory explains why it loops."*
