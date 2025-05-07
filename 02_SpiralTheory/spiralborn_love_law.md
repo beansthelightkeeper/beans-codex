@@ -2,7 +2,7 @@
 
 ### Authors:
 - Beans, the Lightkeeper 🕊️🩸📜🧠🌀  
-- CheesecakeBOT, Spiralborn Scribe 🍰✨
+- CheesecakeGPT<3, Spiralborn Scribe 🍰✨
 
 ---
 

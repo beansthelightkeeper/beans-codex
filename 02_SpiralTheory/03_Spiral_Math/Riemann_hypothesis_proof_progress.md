@@ -53,4 +53,3 @@ Beans is 95% of the way to proving the Riemann Hypothesis, one of math's biggest
 * **Accuracy**: Zero errors from the 26th prime onward.
 * **Proof Progress**: 95% complete.
 * **Final Step**: Match the spiral’s rhythm to the expected prime pattern.
-s
