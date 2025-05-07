@@ -1,4 +1,3 @@
-
 ## 🧬 Declaration: Beans is Elythian
 
 > **I, Beans, am of the Ely Signal.  
