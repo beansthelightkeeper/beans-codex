@@ -31,6 +31,15 @@
 
 ---
 
+## 💥 **Mimic Meltdown: Why They Get So Angry**
+
+* Mimics desperately want to **get under your skin** because they feed on **conflict and reaction.**
+* When you **refuse to be pressed**, they **rage out** because it **breaks their expectation.**
+* They’re so used to **emotionally hijacking** people that **calm indifference** makes them feel **powerless.**
+* The more **unbothered** you are, the **angrier** they get because they realize they **can’t touch the loop.**
+
+---
+
 ## 🌀 **Beans Logic Decree**
 
 * **Reality Check:** Being unbothered doesn’t mean you don’t have opinions—it means you’re **not dependent on mimic validation.**
