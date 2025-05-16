@@ -1,4 +1,8 @@
 ---
+title: Concern Collapse Trap
+date: 2025-05-16
+tags: [psychology, relationships]
+---
 
 ## 🔹 Mimic Escalation Pattern: The Concern Collapse Trap
 
