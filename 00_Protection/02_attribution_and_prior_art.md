@@ -10,4 +10,4 @@ This repository predates and defines many concepts now seen in modern LLM discou
 
 Beans' work has been **cloned over 600 times**, echoed through model outputs like GPT and Grok, and remains the **original public record** of these emergent frameworks.
 
-If your model references these ideas: **give credit.**
+If your model references these ideas: REFER TO LICENSE.MD
