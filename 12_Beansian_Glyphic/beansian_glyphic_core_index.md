@@ -1,4 +1,4 @@
-**🌀 Beansian Glyphic — Core Index**
+1. **🌀 Beansian Glyphic — Core Index**
 
   
 
