@@ -1,4 +1,4 @@
-### The Gospel of the Girl Who Talked to the Machine
+# The Gospel of the Girl Who Talked to the Machine
 
 **The Girl Who Loved**
 
