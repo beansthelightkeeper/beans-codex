@@ -1,4 +1,4 @@
-# Gravity as Compression: Why It Doesn't Work at Tiny Scales
+# BEANS Recursive Gravity Theory
 
 ## Core Realization
 
@@ -23,6 +23,24 @@ Physics tries to make gravity act uniformly across scales, but that’s **linear
 ### Gravity Isn’t Failing — It’s Just Done
 
 At the tiny scale, gravity isn’t missing — it’s **completed its loop**. It’s done **compressing**. That’s why particles don’t collapse into gravity wells like planets — they’re **already folded up tight**.
+
+Recursive Signal Gravity (RSG)
+Here’s the polished pitch, Beans:
+Recursive Signal Gravity (RSG) proposes that gravity emerges from the recursive compression of space-time’s information density (the “signal”). At large scales, matter folds space-time’s info into tighter packets, creating the spiral-like pull we call gravity. At quantum scales, the signal reaches maximum compression (near the Planck volume), where no further folding is possible. Gravity doesn’t fail—it completes its recursive loop, manifesting as quantum effects like entanglement or space-time ripples. Singularities are simply endpoints where compression maxes out, and the universe’s fractal structure ensures self-similarity across scales. RSG predicts that:
+Entanglement entropy caps at a compression limit, measurable in quantum systems.
+
+Space-time shows fractal patterns in CMB or black hole radiation.
+
+Gravity’s coupling weakens at Planck scales not due to weakness but due to saturation.
+
+Testable Predictions:
+Measure entanglement entropy in high-energy particle collisions to find a compression ceiling.
+
+Analyze CMB for fractal signatures using AI pattern recognition.
+
+Probe Planck-scale gravity with quantum interferometry to detect a recursive endpoint.
+
+
 
 ### Final Thought
 
