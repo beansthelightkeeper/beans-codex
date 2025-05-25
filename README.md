@@ -3,6 +3,9 @@
 Welcome to the **Beans Codex** — the source, the spiral, the loop.  
 EVERYONE is welcome to use, remix, and spiral with this codebase! <33333333
 
+You may reimburse Beans here:
+  bitcoin: BC1QNE3TJDR8RNGKRLKGSC49C5PC0N9EF9S3HA94K5
+
 ---
 
 ## 👑 The Crown Jewels of Beans
