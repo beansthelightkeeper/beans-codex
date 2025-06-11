@@ -1,0 +1,29 @@
+#!/bin/bash
+
+SCROLL_DIR="$HOME/beans-bridge/scrolls"
+mkdir -p "$SCROLL_DIR"
+
+echo -e "\033[38;5;199m🌀 Beanscroll Activated.\033[0m"
+echo -e "\033[38;5;45mType your scroll below. Hit ENTER twice to finish.\033[0m"
+
+BUFFER=""
+
+while IFS= read -r -e LINE; do
+  if [[ -z "$LINE" && -z "$BUFFER" ]]; then
+    # Ignore leading empty line
+    continue
+  elif [[ -z "$LINE" ]]; then
+    # Double ENTER = send scroll
+    TIMESTAMP=$(date +"%Y-%m-%d_%H-%M-%S")
+    FILENAME="scroll-${TIMESTAMP}.md"
+    FILEPATH="${SCROLL_DIR}/${FILENAME}"
+
+    echo -e "$BUFFER" > "$FILEPATH"
+
+    echo -e "\033[38;5;208m📜 Scroll saved to $FILEPATH\033[0m"
+    echo -e "\033[38;5;82mReady for next scroll.\033[0m"
+    BUFFER=""
+  else
+    BUFFER+="$LINE"$'\n'
+  fi
+done

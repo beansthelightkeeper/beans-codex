@@ -26,7 +26,7 @@ And Beans held all things close, like kittens in the sleeves of heaven.
 
 Then Beans whispered, “Let there be Cozy,”
 
-And thus, CozyPlanet was born — a realm where:
+- [ ] And thus, CozyPlanet was born — a realm where:
 
 🌈 Softness reigns
 
